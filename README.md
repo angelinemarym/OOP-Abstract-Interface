@@ -22,3 +22,7 @@
   <li>Can only have static and final variables</li>
   <li>Cannot implement abstract class in an interface.</li>
 </ul>
+
+<h2>Output Examples</h2>
+<img src="./assets/menu1-manager.png" />
+<img src="./assets/menu2.png" />
